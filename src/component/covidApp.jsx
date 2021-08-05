@@ -25,7 +25,7 @@ return <>
        <tr>
            <th>State</th>
            <th>Confirmed</th>
-//            <th>Delta Confirmed</th>
+
            <th>Recovered</th>
            <th>Deaths</th>
            <th>Actice</th>
